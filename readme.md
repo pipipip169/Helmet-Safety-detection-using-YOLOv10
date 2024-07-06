@@ -28,4 +28,7 @@ To run this application locally, follow these steps:
    https://github.com/THU-MIG/yolov10.git
 
 3. Copy **trained** folder and **helmet_detection_yolov10.py** to **yolov10** and run (don't forget install requirement packages)
-   
+
+## Result
+![result](1.jpg)
+![result](2.jpg)
