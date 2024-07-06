@@ -1,3 +1,7 @@
 {
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "sonarlint.connectedMode.project": {
+        "connectionId": "pipipip169",
+        "projectKey": "pipipip169_Helmet-Safety-detection-using-YOLOv10"
+    }
 }
